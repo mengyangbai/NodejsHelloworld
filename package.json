@@ -1,0 +1,29 @@
+{
+  "name": "onlinetest",
+  "version": "1.0.0",
+  "description": "onlinetest",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mengyangbai/onlinetest.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Mengyang Bai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mengyangbai/onlinetest/issues"
+  },
+  "homepage": "https://github.com/mengyangbai/onlinetest#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "sequelize": "^4.38.0",
+    "sqlite3": "^4.0.1"
+  }
+}
