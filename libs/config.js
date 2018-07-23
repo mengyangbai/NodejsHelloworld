@@ -49,5 +49,9 @@ module.exports = {
             underscored: true
         },
         operatorsAliases
+    },
+    jwtSecret: "Onlinetest-AP1",
+    jwtSession: {
+        session: false
     }
 };
